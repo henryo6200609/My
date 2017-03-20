@@ -12,5 +12,6 @@ class asd {
     }
 
     private asd() {
+        int a = 0;
     }
 }
